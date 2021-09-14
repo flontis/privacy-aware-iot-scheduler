@@ -7,8 +7,8 @@ It is assumed that a network of five machines is available to run all scheduling
 
 ## Direct Scheduling
 Edge Node 1 --- Edge Server
-      \
-        Edge Node 2
+     |
+Edge Node 2
 
 ## Intra Community Scheduling
 Edge Node 1 --- Edge Server --- Edge Node 2
